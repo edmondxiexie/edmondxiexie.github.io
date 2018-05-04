@@ -1,2 +1,2 @@
-# website: 
-[edmondbay.com](http://www.edmondbay.com)
+# website:
+Hi, I am Edmond
